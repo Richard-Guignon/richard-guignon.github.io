@@ -1,12 +1,12 @@
-## Welcome to GitHub Pages
+# Richard Guignon
 
-You can use the [editor on GitHub](https://github.com/Richard-Guignon/richard-guignon.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+# MAIN EXPERIENCES
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+## Orange / Marketing & Design / Experience Design Lab
 
-### Markdown
+### XR Design System | 2021-2022
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
 
 ```markdown
 Syntax highlighted code block
