@@ -1,9 +1,8 @@
 ---
 layout: projects
-title: Projects
+title: Recent Projects
 show_collection: projects
 description: >
-  How people are using Hydejack in the real world. 
-  This page is built using the `projects` layout* that you can use yourself to build a portfolio.
+  Find below some projects I have contributed during last years.
 no_groups: true
 ---

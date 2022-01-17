@@ -2,102 +2,208 @@
 # If you don't have a JSON Resume you can just edit this YAML file instead.
 # See also: <https://jsonresume.org/>.
 basics:
-  name: "Richard Hendricks"
-  label: "Programmer"
-  picture: "https://via.placeholder.com/240x240"
-  email: ""
-  phone: "(912) 555-4321"
-  website: "https://piedpiper.com"
+  name: "Richard G."
+  label: "UX Designer & prototyper"
+  picture: "/assets/img/avatar.png"
+  #email: ""
+  #phone: "(912) 555-4321"
+  website: "https://www.guignon.eu"
   summary: >
-    Richard hails from Tulsa.
-    He has earned degrees from the University of Oklahoma and Stanford. (Go Sooners and Cardinals!)
-    Before starting Pied Piper, he worked for Hooli as a part time software developer.
-    While his work focuses on applied information theory,
-    mostly optimizing lossless compression schema of both the length-limited and adaptive variants,
-    his non-work interests range widely,
-    everything from quantum computing to chaos theory.
-    He could tell you about it, but THAT would NOT be a “length-limited” conversation!
-    Open `_data/resume.yml` to edit this text.
+    Hey! I'm Richard. 
+    I am a UX Designer & Prototyper in a multidisciplinary team of designers, ergonomicists, sociologists and developpers at Orange Experience Design Lab.
+    My job is to design disruptive services and products based on Human-Centered Design methods to deliver outstanding user experiences.
+    I have a pragmatic and result-oriented approach to deal with problems to be solved.
+    For the past few years, I have concentrated my efforts in Virtual Reality field. 
+    So I am in charge of researching, designing and prototyping interaction and new services.
+    Do not hesitate to contact me on linkedin.
   location:
-    address: "2712 Broadway St"
-    postalCode: "CA 94115"
-    city: "San Francisco"
-    countryCode: "US"
-    region: "California"
+ #   address: "2712 Broadway St"
+ #   postalCode: "CA 94115"
+    city: "Rennes"
+   # countryCode: "FR"
+    region: "France"
   profiles:
     - network: "Twitter"
-      username: "RHendricksCEO"
-      url: ""
-    - network: "LinkedIn"
-      username: "Richard Hendricks"
-      url: ""
+      username: "r_guignon"
+      url: "https://twitter.com/r_guignon"
+    - network: "LinkedIn" 
+      username: "Richard "
+      url: "https://www.linkedin.com/in/richard-guignon/"
+
+
 work:
-  - company: "Pied Piper"
-    position: "CEO/President"
-    website: "https://piedpiper.com"
-    startDate: "2013-12-01"
+  - company: "Orange Experience Design Lab"
+    position: "UX Designer & Prototyper"
+    website: "https://www.orange.com"
+    startDate: "2021-01-01"
     endDate: ""
-    summary: >
-      Pied Piper is a multi-platform technology based on a proprietary universal compression algorithm that has
-      consistently fielded high Weisman Scores™ that are not merely competitive,
-      but approach the theoretical limit of lossless compression.
+   # summary: >
+   #   Creation and development of Orange XR Design System to help projects to develop their immersive applications faster 
+   #   while offering high quality user experience.
+   #   Orange XR Design System features includes rich user's interactions, networking support, avatars integration, developer tutorials, etc...
     highlights:
-      - "Built an algorithm for artist to detect if their music was violating copy right infringement laws"
-      - "Successfully won Techcrunch Disrupt"
-      - "Optimized an algorithm that holds the current world record for Weisman Scores"
-volunteer:
-  - organization: "CoderDojo"
-    position: "Teacher"
-    website: "https://coderdojo.com/"
-    startDate: "2012-01-01"
-    endDate: "2013-01-01"
-    summary: "Global movement of free coding clubs for young people."
+      - Design & development of Orange XR Design System to help projects to develop their immersive applications faster while offering high quality user experience. Orange XR Design System features includes rich user's interactions, networking support, avatars integration, developer tutorials, etc...
+      - Design & development of an Oculus Quest VR multiplayer gaming & social application for an Orange internal contest. <a href="/projects/Friends Moments/">Friends Moments</a> has been built in few weeks thanks to Orange XR Design System" <a href="/projects/Friends Moments/"> <img class="fit-picture" src="/assets/img/projects/header blue.png" alt="Friends Moments"></a>
+
+
+  - company: "Orange Experience Design Lab"
+    position: "UX Designer & Prototyper"
+    website: "https://www.orange.com"
+    startDate: "2017-01-01"
+    endDate: "2020-12-31"
+    #summary: >
+    #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
+    #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
     highlights:
-      - "Awarded 'Teacher of the Month'"
+      - Design & development of <a href="/projects/Orange VR Collaboration/">Orange VR Collaboration</a>. It is a virtual meeting and training solution based on VR technology.
+        Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+        <a href="/projects/Orange VR Collaboration/"> <img class="fit-picture" src="/assets/img/projects/ovrc.jpg" alt="Orange VR Collaboration"></a>
+      
+  - company: "Orange Experience Design Lab"
+    position: "Service Designer"
+    website: "https://www.orange.com"
+    startDate: "2016-01-01"
+    endDate: "2017-12-31"
+    #summary: >
+    #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
+    #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+    highlights:
+      - Service design in research projects related to the connected and sensitive home.
+       
+  - company: "Orange Labs"
+    position: "Service Designer & project manager"
+    website: "https://www.orange.com"
+    startDate: "2013-01-01"
+    endDate: "2015-12-31"
+    #summary: >
+    #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
+    #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+    highlights:
+      - Service designer and technical project manager of <a href="/projects/POPS by Orange/">Orange POPS</a>, from conception to launch. 
+        POPS is a IoT interactive module enabling various value added connected service. 
+        <a href="/projects/POPS by Orange/">Orange POPS"> <img class="fit-picture" src="/assets/img/projects/pops v1.png" alt="POPS by Orange"></a>
+        
+  - company: "Orange R&D"
+    position: "Service Designer"
+    website: "https://www.orange.com"
+    startDate: "2010-08-01"
+    endDate: "2012-12-31"
+    #summary: >
+    #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
+    #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+    highlights:
+      - participate in the design of "concept-services" or products for Orange customer relationship,
+      - participate in the design, development and tests of services for an autonomous and communicating robot for domestic applications,
+        
+  - company: "Orange Business Services"
+    position: "Technical Stream Leader"
+    website: "https://www.orange-business.com/"
+    startDate: "2004-12-31"
+    endDate: "2010-08-01"
+    #summary: >
+    #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
+    #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+    highlights:
+      - Technical workstream leader on Session Border Controller product for 'Business Talk' and 'Open Videopresence' services.
+
+  - company: "Orange Business Services"
+    position: "Hosting Technical Coordinator"
+    website: "https://www.orange-business.com/"
+    startDate: "2001-05-31"
+    endDate: "2004-11-30"
+    #summary: >
+    #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
+    #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+    #highlights:
+    #  - Technical workstream leader on Session Border Controller product for 'Business Talk' and 'Open Videopresence' services.      
+
+  - company: "Orange Business Services"
+    position: "Cyber Security Engineer"
+    website: "https://www.orange-business.com/"
+    startDate: "1998-08-01"
+    endDate: "2001-04-30"        
+        
 education:
-  - institution: "University of Oklahoma"
-    area: "Information Technology"
-    studyType: "Bachelor"
-    startDate: "2011-06-01"
-    endDate: "2014-01-01"
-    gpa: "4.0"
+  - institution: "Orange Digital Entrepreneur School"
+    #area: "Information Technology"
+    studyType: "Digital spin-off program "
+    startDate: "2019-06-01"
+    endDate: "2019-12-31"
     courses:
-      - "DB1101 - Basic SQL"
-      - "CS2011 - Java Introduction"
+      - Lean Startup, pitch, business plan, business model, marketing, legal, etc.
+      
+  - institution: "<a href=https://www.gobelins.fr/>Les Gobelins</a>"
+    #area: "Information Technology"
+    studyType: "Unity 3D"
+    startDate: "2016-04-01"
+    endDate: "2016-04-08"
+    #courses:
+     
+  - institution: "Orange Innovation School"
+    #area: "Information Technology"
+    studyType: "Internal professional development plan"
+    startDate: "2011-01-01"
+    endDate: "2011-12-31"
+    courses:
+      - "A complete training program spread over several months to address the skills required in the design of innovative services : sociology, marketing, ergonomics, Design Thinking, patent and intellectual property, Agile methods, storyboarding, gamification, user stories, user interface, etc."
+
+  - institution: "<a href=https://istic.univ-rennes1.fr/>ISTIC</a>"
+    #area: "Information Technology"
+    studyType: "Master’s degree in Computer Science"
+    startDate: "1997-09-01"
+    endDate: "1998-06-30"
+    courses:
+      - DESS Informatique et Ses Applications
+
+
 awards:
-  - title: "Digital Compression Pioneer Award"
-    date: "2014-11-01"
-    awarder: "Techcrunch"
-    summary: "There is no spoon."
+  - title: "2016 Best IoT Innovations Award"
+    date: "2016-12-01"
+    awarder: "Connected World"
+    ##summary: "There is no spoon."
+    
+  - title: "<a href=https://www.iotevolutionworld.com/newsroom/articles/427240-iot-evolution-announces-2016-product-the-year-award.htm>2016 Product of the Year Award</a>"
+    date: "2016-11-01"
+    awarder: "IoT Evolution"
+
+  - title: "<a href=https://www.lefigaro.fr/secteur/high-tech/start-up/2016/06/01/32004-20160601ARTFIG00087-voici-les-gagants-du-trophee-des-objets-connectes.php>Best industrial service of the year Award</a>"
+    date: "2016-05-01"
+    awarder: "Trophée des objets connectés"
+
+  - title: "<a href=https://twitter.com/RemiPrunier/status/737694641487806464>Digital service of the year Award</a>"
+    date: "2015-10-01"
+    awarder: "<a href=https://twitter.com/bretones/status/654010946155884544>L'Usine Digitale</a>"
+    
+    
 publications:
-  - name: "Video compression for 3d media"
-    publisher: "Hooli"
-    releaseDate: "2014-10-01"
-    website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
-    summary: "Innovative middle-out compression algorithm that changes the way we store data."
+  - name: "Field test of an autonomous and communicating robot for domestic application"
+    publisher: "CompanionAble Consortiu, AAL Companion Robotics Institute Workshop"
+    releaseDate: "2011-03-01"
+  #  website: "https://en.wikipedia.org/wiki/Silicon_Valley_(TV_series)"
+  #  summary: "Innovative middle-out compression algorithm that changes the way we store data."
+    
+    
 skills:
-  - name: "Web Development"
-    level: "Master"
-    keywords:
-      - "HTML"
-      - "CSS"
-      - "Javascript"
-  - name: "Compression"
-    level: "Master"
-    keywords:
-      - "Mpeg"
-      - "MP4"
-      - "GIF"
+  - name: "Unity"
+  - name: "C#"
+  - name: "3D tools"
+   # level: "Master"
+#    keywords:
+ #     - "HTML"
+  #    - "CSS"
+   #   - "Javascript"
+
 languages:
-  - language: "English"
+  - language: "French"
     fluency: "Native speaker"
+  - language: "English"
+    fluency: "B2/C3"
+    
 interests:
-  - name: "Wildlife"
-    keywords:
-      - "Ferrets"
-      - "Unicorns"
-references:
-  - name: "Erlich Bachman"
-    reference: >
-      It is my pleasure to recommend Richard, his performance working as a consultant for Main St.
-      Company proved that he will be a valuable addition to any company.
+  - name: "3D printing & DIY"
+  - name: "Architecture"
+  - name: "Crypto"
+  - name: "Sport cars"
+
+
+   

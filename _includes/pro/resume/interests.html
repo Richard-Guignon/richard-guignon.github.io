@@ -5,15 +5,9 @@
     <span class="symbol {{ icons.interests | default:'icon-heart' }}"></span>
   </h2>
   <dl class="skills">
-    {% for int in resume.interests %}
-      <dt>{{ int.name }}</dt>
+      {% for int in resume.interests %}
       <dd>
-        <span class="sr-only">{{ strings.resume.keywords | default:"Keywords" }}{{ colon }}</span>
-        <ul class="tags">
-          {% for key in int.keywords %}
-            <li class="tag">{{ key }}</li>
-          {% endfor %}
-        </ul>
+            <li class="tag">{{ int.name  }}</li>
       </dd>
     {% endfor %}
   </dl>
