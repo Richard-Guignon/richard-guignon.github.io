@@ -43,7 +43,8 @@ work:
    #   Orange XR Design System features includes rich user's interactions, networking support, avatars integration, developer tutorials, etc...
     highlights:
       - Design & development of Orange XR Design System to help projects to develop their immersive applications faster while offering high quality user experience. Orange XR Design System features includes rich user's interactions, networking support, avatars integration, developer tutorials, etc...
-      - Design & development of an Oculus Quest VR multiplayer gaming & social application for an Orange internal contest. <a href="/projects/Friends Moments/">Friends Moments</a> has been built in few weeks thanks to Orange XR Design System" <a href="/projects/Friends Moments/"> <img class="fit-picture" src="/assets/img/projects/header blue.png" alt="Friends Moments"></a>
+      - Design & development of an Oculus Quest VR multiplayer gaming & social application for an Orange internal contest. <a href="/projects/Friends Moments/">Friends Moments</a> has been built in few weeks thanks to Orange XR Design System."
+        <a href="/projects/Friends Moments/"> <img class="fit-picture" src="/assets/img/projects/header blue.png" alt="Friends Moments"></a>
 
 
   - company: "Orange Experience Design Lab"
@@ -57,6 +58,7 @@ work:
     highlights:
       - Design & development of <a href="/projects/Orange VR Collaboration/">Orange VR Collaboration</a>. It is a virtual meeting and training solution based on VR technology.
         Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
+        
         <a href="/projects/Orange VR Collaboration/"> <img class="fit-picture" src="/assets/img/projects/ovrc.jpg" alt="Orange VR Collaboration"></a>
       
   - company: "Orange Experience Design Lab"
@@ -80,8 +82,8 @@ work:
     #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
     highlights:
       - Service designer and technical project manager of <a href="/projects/POPS by Orange/">Orange POPS</a>, from conception to launch. 
-        POPS is a IoT interactive module enabling various value added connected service. 
-        <a href="/projects/POPS by Orange/">Orange POPS"<img class="fit-picture" src="/assets/img/projects/pops v1.png" alt="POPS by Orange"></a>
+        POPS is an IoT interactive module enabling various value added connected service. 
+        <a href="/projects/POPS by Orange/"><img class="fit-picture" src="/assets/img/projects/pops v1.png" alt="POPS by Orange"></a>
         
   - company: "Orange R&D"
     position: "Service Designer"
@@ -157,22 +159,30 @@ education:
 
 
 awards:
+  - title: "<a href=https://mastermedia.orange-business.com/publicMedia?t=pmkxNR28fx>Orange Innovation Cup Award</a>"
+    date: "2022-01-17"
+    awarder: "Orange"
+    summary: "Friends Moments"
+
   - title: "2016 Best IoT Innovations Award"
     date: "2016-12-01"
     awarder: "Connected World"
-    ##summary: "There is no spoon."
+    summary: "POPS by Orange"
     
   - title: "<a href=https://www.iotevolutionworld.com/newsroom/articles/427240-iot-evolution-announces-2016-product-the-year-award.htm>2016 Product of the Year Award</a>"
     date: "2016-11-01"
     awarder: "IoT Evolution"
+    summary: "POPS by Orange"
 
   - title: "<a href=https://www.lefigaro.fr/secteur/high-tech/start-up/2016/06/01/32004-20160601ARTFIG00087-voici-les-gagants-du-trophee-des-objets-connectes.php>Best industrial service of the year Award</a>"
     date: "2016-05-01"
     awarder: "Trophée des objets connectés"
+    summary: "POPS by Orange"
 
   - title: "<a href=https://twitter.com/RemiPrunier/status/737694641487806464>Digital service of the year Award</a>"
     date: "2015-10-01"
     awarder: "<a href=https://twitter.com/bretones/status/654010946155884544>L'Usine Digitale</a>"
+    summary: "POPS by Orange"
     
     
 publications:
