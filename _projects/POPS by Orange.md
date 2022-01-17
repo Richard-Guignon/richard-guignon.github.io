@@ -26,9 +26,6 @@ theme_color: '#193747'
 sitemap: false
 ---
 
-**Inclure montage esquisses-version finale + travaux de design et conception.**
-
-
 Initiated in 2013, the main idea of ​​this project was to develop a generic electronic module allowing partners to create connected products and services very quickly without supporting the hardware design and production costs.
 **POPS** firmware is customized for each partner to cover different types of use cases as described in [this video](https://www.youtube.com/watch?v=IOjeBXWswa0)
 
@@ -52,7 +49,7 @@ In order to improve overall performance, a second version with a larger screen h
 We received several [awards](/resume/#awards) and the Pops has been in demonstration during the **Mobile World Congress** 2017.
 
 
-During 2017, thanks do the **POPS** (rebranded **Live Module**), the police [dismantled a network](https://www.linkedin.com/pulse/gr%C3%A2ce-au-live-module-dorange-la-police-d%C3%A9mant%C3%A8le-un-r%C3%A9seau-bretones/) that stole nearly 1,200 bicycles a year.
+During 2017, thanks to the **POPS** (rebranded **Live Module**), the police [dismantled a network](https://www.linkedin.com/pulse/gr%C3%A2ce-au-live-module-dorange-la-police-d%C3%A9mant%C3%A8le-un-r%C3%A9seau-bretones/) that stole nearly 1,200 bicycles a year.
 
 
 ![400x400](/assets/img/projects/pops-SDK.jpg "Pops SDK"){:.lead width="800" height="100" loading="lazy"}
