@@ -17,7 +17,7 @@ links:
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
-theme_color: '#193747'
+theme_color: '#193747' 
 sitemap: false
 ---
 
@@ -40,7 +40,7 @@ The app is build with Unity, use the [Exit Games Photon](https://www.photonengin
 
 The interaction and locomotion stack is homemade, and is part of a set of UPM packages that we created to allow to easily quickstart networked virtual reality applications.
 
-![400x400](/assets/img/projects/FM house.jpeg "Friends Moments"){:.lead width="800" height="100" loading="lazy"}
+<![400x400](/assets/img/projects/FM house.jpeg "Friends Moments"){:.lead width="800" height="100" loading="lazy"}
 
 
 

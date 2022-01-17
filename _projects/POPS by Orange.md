@@ -16,9 +16,9 @@ image:
  #   1920w: /assets/img/projects/pops.jpg
  #   960w:  /assets/img/projects/pops@0,5x.jpg
  #   480w:  /assets/img/projects/pops@0,25x.jpg
-links:
-  - title: Link
-    url: https://qwtel.com/
+#links:
+#  - title: Link
+#    url: https://qwtel.com/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
@@ -55,7 +55,7 @@ We received several [awards](/resume/#awards) and the Pops has been in demonstra
 During 2017, thanks do the Pops (rebranded Live Module), the police [dismantled a network](https://www.linkedin.com/pulse/gr%C3%A2ce-au-live-module-dorange-la-police-d%C3%A9mant%C3%A8le-un-r%C3%A9seau-bretones/) that stole nearly 1,200 bicycles a year.
 
 
-![400x400](/assets/img/projects/pops-SDK.jpg "Pops SDK")
+![400x400](/assets/img/projects/pops-SDK.jpg "Pops SDK"){:.lead width="800" height="100" loading="lazy"}
 
 
 Also, a SDK has been developed to allow customers to adapt the Pops firmware to their needs by themself.

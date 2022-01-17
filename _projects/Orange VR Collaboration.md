@@ -11,9 +11,9 @@ image:
 image: 
   path: /assets/img/projects/OVRC quest.jpg
 
-links:
-  - title: Link
-    url: https://sidequestvr.com/app/5474/friends-moments/
+#links:
+#  - title: Link
+#    url: https://sidequestvr.com/app/5474/friends-moments/
 accent_color: '#4fb1ba'
 accent_image:
   background: '#193747'
