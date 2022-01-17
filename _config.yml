@@ -48,7 +48,7 @@ author:
   name:                <Richard> #<lastname>
   # email:               <mail@domain.tld>
   # # Used by `jekyll-seo-tag`:
-  twitter:             r_guignon
+  #twitter:             r_guignon
 
 # Add links to the sidebar.
 menu:

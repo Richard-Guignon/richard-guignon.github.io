@@ -4,7 +4,7 @@
 basics:
   name: "Richard G."
   label: "UX Designer & prototyper"
-  picture: "/assets/img/avatar.png"
+  picture: "/assets/img/richard avatar 2.png"
   #email: ""
   #phone: "(912) 555-4321"
   website: "https://www.guignon.eu"
@@ -81,7 +81,7 @@ work:
     highlights:
       - Service designer and technical project manager of <a href="/projects/POPS by Orange/">Orange POPS</a>, from conception to launch. 
         POPS is a IoT interactive module enabling various value added connected service. 
-        <a href="/projects/POPS by Orange/">Orange POPS"> <img class="fit-picture" src="/assets/img/projects/pops v1.png" alt="POPS by Orange"></a>
+        <a href="/projects/POPS by Orange/">Orange POPS"<img class="fit-picture" src="/assets/img/projects/pops v1.png" alt="POPS by Orange"></a>
         
   - company: "Orange R&D"
     position: "Service Designer"
