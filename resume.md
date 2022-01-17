@@ -12,6 +12,7 @@ left_column:
   - awards
   - publications
   - references
+right_column:
   - languages
   - skills
   - interests
