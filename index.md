@@ -5,8 +5,15 @@ sitemap: false
 ---
 
 
-I am Richard. After beginning my career in IT system administration and VoIP service engineering, I evolved as a UX Designer & Prototyper in a multidisciplinary team of designers, ergonomicists, sociologists and developpers.
-
-For the past few years, I have concentrated my efforts in Virtual Reality field. 
+I'm Richard, UX Designer & Prototyper.
 So I am in charge of researching, designing and prototyping interaction and new services.
+
+### Feel Free to Explore 
+
+[Projects](/projects) — Some projects I have contributed during last years.
+
+[Resume](/resume) — Always open for amazing experiences.
+
+Patents - Soon...
+
 
