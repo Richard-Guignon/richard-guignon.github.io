@@ -22,7 +22,7 @@ sitemap: false
 ---
 
 **Orange VR Collaboration** is a virtual reality meeting solution.
-It has been developped first for desktop VR headsets (Oculus Rift, ...) then port on Oculus Quest.
+It has been developped first for desktop VR headsets (Oculus Rift, HTC Vive) then port on Oculus Quest.
 
 ![400x400](/assets/img/projects/ovrc.jpg "OVRC St Etienne"){:.lead width="800" height="100" loading="lazy"} 
 
