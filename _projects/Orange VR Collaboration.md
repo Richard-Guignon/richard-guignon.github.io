@@ -31,7 +31,8 @@ With this application, people can collaborate together as if they were in the sa
 They can use post-it, agile board, pens, 3D air pens, whiteboard, dictaphone (with Google Speech recognition), ... and import and work on various documents (pdf, fbx, images, ...) added through a dedicated web portal.
 They can also miniaturizes themself on special places to see created or imported object in real size scale.
 
-A very important focus has been put on ensuring a very simple and straightforward experience, accessible to every users.
+A very important focus has been put on ensuring a very simple and straightforward experience, accessible to every users. 
+It has been done thanks to rapid prototyping and fast iteration through feedback and user testing.
 
 <a href="https://www.youtube.com/watch?v=QQ843DRN5Ng">![400x400](/assets/img/projects/OVRC video.png "OVRC feature Overview"){:.lead width="800" height="100" loading="lazy"}</a>
 Feature overview in a video made by an Orange training team. Capture done with Oculus Quest version.
@@ -44,5 +45,6 @@ This video explain more the design process. Capture done with first Desktop vers
 
 The application has been presented in several events ([Orange Hello Show](https://pic.twitter.com/SBNjz6M18j), [Biennale internationale du Design de Saint-Etienne](https://pic.twitter.com/iBwoxjAU3m), [InOut](https://pic.twitter.com/FYWQbzqkWR), [Orange Business summit](https://pic.twitter.com/W3ddj2sFOr), ...) and has been tested by more than a thousand users, bringing a lot of feedback and improvement opportunities.
 
-
-This project started as a bottom-up anticipation project and became a product in **Orange Business Services** portfolio.
+This project started as a bottom-up anticipation project.
+We had to advocate for use case, budget, product design decisions to a vast set of internal stakeholders.
+Orange VR Collaboration is now included in **Orange Business Services** portfolio.
