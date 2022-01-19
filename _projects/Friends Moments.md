@@ -22,7 +22,7 @@ sitemap: false
 ---
 
 **Friends Moments** is a VR application for **Oculus Quest 2** headsets, that allows to share good times with loved ones, regardless of the distance.
-We received the [**Orange Innovation Cup**](https://mastermedia.orange-business.com/publicMedia?t=pmkxNR28fx) awards in January 2022.
+We received the [**Orange Innovation Cup 2021**](https://mastermedia.orange-business.com/publicMedia?t=pmMFlPJ9Xx) award in January 2022.
 
 
 <a href="https://www.youtube.com/watch?v=0LNZ0UEfZPc">![400x400](/assets/img/projects/FM video.png "Friends Moments"){:.lead width="800" height="100" loading="lazy"}</a>
