@@ -66,6 +66,7 @@ On technical aspect :
 - render pipeline, 
 - avatar integration, 
 - C# components creation,
+
 and… little small details
 
 
