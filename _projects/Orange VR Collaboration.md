@@ -47,7 +47,7 @@ This video explain more the design process. Capture done with first Desktop vers
 The application has been presented in several events ([Orange Hello Show](https://pic.twitter.com/SBNjz6M18j), [Biennale internationale du Design de Saint-Etienne](https://pic.twitter.com/iBwoxjAU3m), [InOut](https://pic.twitter.com/FYWQbzqkWR), [Orange Business summit](https://pic.twitter.com/W3ddj2sFOr), ...) and has been tested by more than a thousand users, bringing a lot of feedback and improvement opportunities.
 
 This project started as a bottom-up anticipation project. 
-My project contributions was very large :
+This led me to a wide variety of contributions :
 - convince stakeholders to invest into the subject thanks to a quick prototype,
 - advocate budget & use case to a vast set of internal stakeholders, 
 - provide project reporting,
