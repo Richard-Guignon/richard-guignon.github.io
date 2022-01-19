@@ -43,8 +43,30 @@ Feature overview in a video made by an Orange training team. Capture done with O
 This video explain more the design process. Capture done with first Desktop version.
 {:.figcaption}
 
+![400x400](/assets/img/projects/SH.jpg "Hello Show"){:.lead width="800" height="100" loading="lazy"} 
 The application has been presented in several events ([Orange Hello Show](https://pic.twitter.com/SBNjz6M18j), [Biennale internationale du Design de Saint-Etienne](https://pic.twitter.com/iBwoxjAU3m), [InOut](https://pic.twitter.com/FYWQbzqkWR), [Orange Business summit](https://pic.twitter.com/W3ddj2sFOr), ...) and has been tested by more than a thousand users, bringing a lot of feedback and improvement opportunities.
 
-This project started as a bottom-up anticipation project.
-We had to advocate for use case, budget, product design decisions to a vast set of internal stakeholders.
-Orange VR Collaboration is now included in **Orange Business Services** portfolio.
+This project started as a bottom-up anticipation project. 
+My project contributions was very large :
+- convince stakeholders to invest into the subject thanks to a quick prototype,
+- advocate budget & use case to a vast set of internal stakeholders, 
+- provide project reporting,
+- public demonstration during showcases,
+- work collaboratively with designers, engineers, and ergonomists,
+- customer facing workshops,
+- initiate and follow up experiments with several customers,
+- interpret customer feedback to inform user-focused designs,
+- product design decisions,
+
+On technical aspect : 
+- develop UX prototypes and mockups to drive and inform product direction,
+- design final UX,
+- spatial design, 
+- assets selection & customization (models, textures, materials, lights),
+- render pipeline, 
+- avatar integration, 
+- C# components creation,
+and… little small details
+
+
+**Orange VR Collaboration** is now included in **Orange Business Services** portfolio.
