@@ -28,7 +28,7 @@ It has been developped first for desktop VR headsets (Oculus Rift, HTC Vive) the
 
 
 With this application, people can collaborate together as if they were in the same room.
-They can use post-it, agile board, pens, 3D air pens, whiteboard, dictaphone (with Google Speech recognition), ... and import and work on various documents (pdf, fbx, images, ...) added through a dedicated web portal.
+They can use post-it, agile board, pens, 3D air pens, whiteboard, dictaphone (with **Google** Speech recognition), ... and import and work on various documents (pdf, fbx, images, ...) added through a dedicated web portal.
 They can also miniaturizes themself on special places to see created or imported object in real size scale.
 
 A very important focus has been put on ensuring a very simple and straightforward experience, accessible to every users. 
@@ -62,9 +62,9 @@ On technical aspect :
 - develop UX prototypes and mockups to drive and inform product direction,
 - design final UX,
 - spatial design, 
-- assets selection & customization (models, textures, materials, lights),
-- render pipeline, 
-- avatar integration, 
+- assets selection & customization (models, textures, materials, lights, shaders),
+- render pipeline & application compilation, 
+- third party integration (Photon, Exit Games) 
 - C# components creation,
 
 and… little small details
