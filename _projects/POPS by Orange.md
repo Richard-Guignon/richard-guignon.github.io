@@ -61,7 +61,13 @@ Also, a SDK has been developed to allow customers to adapt the **POPS** firmware
 Typical hardware project life.
 {:.figcaption}
 
-
+I initiated this project and contributed in all stages : from the first design process until the industrial production stage, specially :
+- service and user experience design,
+- product design and prototyping thanks to 3D printing,
+- software & hardware development management,
+- resources and budgetary trade-off,
+- product specification & development with partners,
+- public demonstration during showcases like "Orange Hello Show" or "Osons la France"
 
 
 
