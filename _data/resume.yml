@@ -3,14 +3,14 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Richard G."
-  label: "UX Designer & prototyper"
+  label: "VR Product Designer & prototyper"
   picture: "/assets/img/richard avatar 2.png"
   #email: ""
   #phone: "(912) 555-4321"
   website: "https://www.guignon.eu"
   summary: >
     Hey! I'm Richard. 
-    I am a UX Designer & Prototyper in a multidisciplinary team of designers, ergonomicists, sociologists and developpers at Orange Experience Design Lab.
+    I am a VR Product Designer & Prototyper in a multidisciplinary team of designers, ergonomicists, sociologists and developpers at Orange Experience Design Lab.
     My job is to design disruptive services and products based on Human-Centered Design methods to deliver outstanding user experiences.
     I have a pragmatic and result-oriented approach to deal with problems to be solved.
     For the past few years, I have concentrated my efforts in Virtual Reality field. 
@@ -33,7 +33,7 @@ basics:
 
 work:
   - company: "Orange Experience Design Lab"
-    position: "UX Designer & Prototyper"
+    position: "VR Product Designer & prototyper"
     website: "https://www.orange.com"
     startDate: "2021-01-01"
     endDate: ""
@@ -48,7 +48,7 @@ work:
 
 
   - company: "Orange Experience Design Lab"
-    position: "UX Designer & Prototyper"
+    position: "VR Product Designer & prototyper"
     website: "https://www.orange.com"
     startDate: "2017-01-01"
     endDate: "2020-12-31"
@@ -62,7 +62,7 @@ work:
         <a href="/projects/Orange VR Collaboration/"> <img class="fit-picture" src="/assets/img/projects/ovrc.jpg" alt="Orange VR Collaboration"></a>
       
   - company: "Orange Experience Design Lab"
-    position: "Service Designer"
+    position: "UX Service Designer"
     website: "https://www.orange.com"
     startDate: "2016-01-01"
     endDate: "2017-12-31"
@@ -73,7 +73,7 @@ work:
       - Service design in research projects related to the connected and sensitive home.
        
   - company: "Orange Labs"
-    position: "Service Designer & project manager"
+    position: "Product Designer & project manager"
     website: "https://www.orange.com"
     startDate: "2013-01-01"
     endDate: "2015-12-31"
@@ -81,7 +81,7 @@ work:
     #  Orange VR Collaboration is a remote meeting and training solution based on VR technology.
     #  Thanks to this solution, workforce collaborates effectively, regardless of the distance between them.
     highlights:
-      - Service designer and technical project manager of <a href="/projects/POPS by Orange/">Orange POPS</a>, from conception to launch. 
+      - Product designer and technical project manager of <a href="/projects/POPS by Orange/">Orange POPS</a>, from conception to launch. 
         POPS is an IoT interactive module enabling various value added connected service. 
         <a href="/projects/POPS by Orange/"><img class="fit-picture" src="/assets/img/projects/pops v1.png" alt="POPS by Orange"></a>
         
