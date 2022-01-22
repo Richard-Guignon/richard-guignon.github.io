@@ -3,7 +3,7 @@
 # See also: <https://jsonresume.org/>.
 basics:
   name: "Richard G."
-  label: "VR Product Designer & prototyper"
+  label: "VR Product Designer & Prototyper"
   picture: "/assets/img/richard avatar 2.png"
   #email: ""
   #phone: "(912) 555-4321"
@@ -33,7 +33,7 @@ basics:
 
 work:
   - company: "Orange Experience Design Lab"
-    position: "VR Product Designer & prototyper"
+    position: "VR Product Designer & Prototyper"
     website: "https://www.orange.com"
     startDate: "2021-01-01"
     endDate: ""
@@ -48,7 +48,7 @@ work:
 
 
   - company: "Orange Experience Design Lab"
-    position: "VR Product Designer & prototyper"
+    position: "VR Product Designer & Prototyper"
     website: "https://www.orange.com"
     startDate: "2017-01-01"
     endDate: "2020-12-31"
@@ -73,7 +73,7 @@ work:
       - Service design in research projects related to the connected and sensitive home.
        
   - company: "Orange Labs"
-    position: "Product Designer & project manager"
+    position: "Product Designer & Project Manager"
     website: "https://www.orange.com"
     startDate: "2013-01-01"
     endDate: "2015-12-31"
