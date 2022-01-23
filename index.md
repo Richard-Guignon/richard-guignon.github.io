@@ -5,15 +5,17 @@ sitemap: false
 ---
 
 
-I'm Richard, UX Designer & Prototyper.
-So I am in charge of researching, designing and prototyping interaction and new services.
+I'm Richard, VR Product Designer & Prototyper.
+
+I am in charge of researching, designing and prototyping interaction and new services.
 
 ### Feel Free to Explore 
 
-[Projects](/projects) — Some projects I have contributed during last years.
-
 [Resume](/resume) — Always open for amazing experiences.
 
-Patents - Soon...
+[Projects](/projects) — Some projects I have led during last years.
+
+[Patents](/patents) — Patents to which I contributed
+
 
 
