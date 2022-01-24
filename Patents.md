@@ -82,3 +82,4 @@ Method for triggering a function that can be executed by a gateway, correspondin
 - [**FR2979513**](https://patentscope.wipo.int/search/en/detail.jsf?docId=FR185811099) - 03.2013
 
 Method for transmitting medical data of person between communication terminal e.g. Personal computer, and another terminal, involves connecting data transmission device to receiving terminal, and transmitting data to receiving terminal
+
