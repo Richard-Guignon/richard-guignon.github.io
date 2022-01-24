@@ -15,7 +15,7 @@ I am in charge of researching, designing and prototyping interaction and new ser
 
 [Projects](/projects) — Some projects I have led during last years.
 
-[Patents](/patents) — Patents to which I contributed 
+[Patents](/publicpatents) — Patents to which I contributed 
 
 
 
